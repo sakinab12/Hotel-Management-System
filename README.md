@@ -23,10 +23,12 @@ Architecture:
 Navigation Diagram:
 
 1)User
+
 ![image](https://user-images.githubusercontent.com/81173080/124615866-3ffc7300-de93-11eb-9e5e-9916b94d6ce3.png)
 
 
 2)Admin
+
 ![image](https://user-images.githubusercontent.com/81173080/124615908-47238100-de93-11eb-986a-dd417dc583c7.png)
 
 
