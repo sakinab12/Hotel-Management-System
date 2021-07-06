@@ -14,17 +14,26 @@ MySQL
 Requirement:
 WAMP Server
 
+Installation:
+1) Download project zip folder and extract it in www folder in the wamp directory
+2) Import .sql file to create the tables
+3) Run the portal on localhost
+
 Architecture:
+
 ![image](https://user-images.githubusercontent.com/81173080/124613299-b5b30f80-de90-11eb-88db-025ba026e773.png)
 
 Navigation Diagram:
 1) User
+
 ![image](https://user-images.githubusercontent.com/81173080/124613495-eabf6200-de90-11eb-9f1f-35e662b62774.png)
 
 2) Admin
+
 ![image](https://user-images.githubusercontent.com/81173080/124613535-f448ca00-de90-11eb-96e9-775b6b60903d.png)
 
 Snapshots:
+
 1) User Side
 ![image](https://user-images.githubusercontent.com/81173080/124613583-0296e600-de91-11eb-97b7-d9065b385520.png)
 ![image](https://user-images.githubusercontent.com/81173080/124613596-062a6d00-de91-11eb-8e5d-bf97c5cc9b10.png)
